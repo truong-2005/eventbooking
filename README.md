@@ -38,5 +38,3 @@ Backend chạy tại `http://localhost:8080`.
 ## Lưu ý
 
 VNPay trong cấu hình `dev` là mô phỏng. Để thử luồng này, hãy chạy frontend tại cổng `3000`. Không có giao dịch tiền thật.
-
-Xem hướng dẫn [Frontend](../eventbooking_fe/README.md) hoặc [README chính](../README.md).
